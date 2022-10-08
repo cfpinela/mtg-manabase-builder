@@ -166,6 +166,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Carlos Pinela - [carlospinela.com](https://carlospinela.com/) - cfpinela@gmail.com
+
 Constanza Pinela - [constanzapinela.com](https://constanzapinela.com/) - cpinelaortiz@gmail.com
 
 Project Link: [https://github.com/cfpinela/mtg-manabase-builder](https://github.com/cfpinela/mtg-manabase-builder)
