@@ -76,7 +76,7 @@
 
 MTG Manabase Builder is a project to simplify the calculation of your manabase using hypergeometric distribution and some constraints you can define.
 
-It was born from the curiosity of making a five color deck (Niv-Mizzet Reborn, this is for you :wink:) and the motivation to make a project that helps fellow MTG casual players.
+It was born from the curiosity of making a five color deck (Niv-Mizzet Reborn, this is for you :wink:), the motivation to make a project that helps fellow MTG casual players and as an excuse to code with my sister.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,6 +166,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Carlos Pinela - [carlospinela.com](https://carlospinela.com/) - cfpinela@gmail.com
+Constanza Pinela - [constanzapinela.com](https://constanzapinela.com/) - cpinelaortiz@gmail.com
 
 Project Link: [https://github.com/cfpinela/mtg-manabase-builder](https://github.com/cfpinela/mtg-manabase-builder)
 
