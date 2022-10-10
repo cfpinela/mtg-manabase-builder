@@ -1,5 +1,4 @@
 import unittest
-import math
 from mtg_manabase_builder import manabase_builder as mb
 
 

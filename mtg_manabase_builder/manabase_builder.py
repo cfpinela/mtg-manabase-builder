@@ -4,7 +4,7 @@ class MTGManabaseBuilder:
     """
     Instantiate a Manabase Builder.
     
-    :param deck_size of the deck we want to build a manabase
+    :param deck_size: size of the deck we want to build a manabase
     :type deck_size: int
     """
 
